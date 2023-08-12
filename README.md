@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Samsun Nahar Samon
 - 👀 I’m interested in Frontend Development
-- Also interested in NodeJS
 - 📫 You can reach me via samon3123@gmail.com
 
 <!---
